@@ -11,6 +11,9 @@
     1 : 식당
     2 : 술집
     3 : 카페 및 간식
+   
+![image](https://user-images.githubusercontent.com/75352656/199527844-c49d6173-4d1b-4187-8d10-3f4ee561ac33.png)
+
 
 ### 2. 두 번째 기능 : 검색 - search
     2-1 : 가게 카테고리 검색
@@ -24,6 +27,8 @@
     
     2-3 : 최종 검색
         앞서 선택했던 두 가지 단계에 따른 검색 가능한 리스트들로 가게 검색 가능.
+        
+![image](https://user-images.githubusercontent.com/75352656/199528039-37f36c44-98e1-4b9a-83ee-84f08f7b82af.png)
 
 
 ### 3. 세 번째 기능 : 1개 가게 입력 시 그와 유사한 가게 추천 - recommend_3_stores
@@ -32,9 +37,15 @@
         2 : 술집
         3 : 카페 및 간식
     3-2 : 제시하는 가게 중 방문했던 가게 검색이 가능
+    
+![image](https://user-images.githubusercontent.com/75352656/199528224-21816ef0-4ba0-47df-bf74-012688a20eae.png)
+
 
 ### 4. 네 번째 기능 : 가게 50개에 대한 평점을 모두 등록 시 가게 추천(카페에 한정한 기능)
     cafe_simulation.txt 이용
     예시 input = sample input 4번.txt 이용
     cosine similarity 이용 -> 가게 3개 추천
     PCC similarity 이용 -> 가게 3개 추천
+    
+![image](https://user-images.githubusercontent.com/75352656/199528490-388c7b00-003a-4dec-ba2c-bb675e59ac84.png)
+![image](https://user-images.githubusercontent.com/75352656/199528585-41961d2a-b52c-41c5-bd4b-e37bf88b6eba.png)
